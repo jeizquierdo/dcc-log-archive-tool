@@ -38,7 +38,7 @@ This project follows the **Standard Open Source Contribution Workflow**. Please 
 1. **Fork this Repository:** Click the "Fork" button at the top right of this page to create a copy in your own GitHub account.
 2. **Clone Your Fork:** Replace `YOUR_USERNAME` with your actual GitHub username.
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Log-Archive-Tool.git](https://github.com/YOUR_USERNAME/Log-Archive-Tool.git)
+git clone https://github.com/YOUR_USERNAME/dcc-log-archive-tool.git
 
 ```
 
